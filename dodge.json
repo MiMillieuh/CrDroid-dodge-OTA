@@ -1,0 +1,28 @@
+{
+    "response": [
+        {
+            "maintainer": "",
+            "oem": "",
+            "device": "",
+            "filename": "crDroidAndroid-16.0-20251015-dodge-v12.2.zip",
+            "download": "https://sourceforge.net/projects/crdroid/files/dodge/12.x/crDroidAndroid-16.0-20251015-dodge-v12.2.zip/download",
+            "timestamp": 1760565349,
+            "md5": "e954700731282816c7b23bdc47ce7edc",
+            "sha256": "dd4e3638f87226806e14c948942448c222de4887c366e5af78220b5180f24201",
+            "size": 2944163386,
+            "version": "12.2",
+            "buildtype": "",
+            "forum": "",
+            "gapps": "",
+            "firmware": "",
+            "modem": "",
+            "bootloader": "",
+            "recovery": "",
+            "paypal": "",
+            "telegram": "",
+            "dt": "",
+            "common-dt": "",
+            "kernel": ""
+        }
+    ]
+}
